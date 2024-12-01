@@ -1,5 +1,9 @@
 # Data Science Free Resources
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 📊 Uncover insights from data with our Data Science Lab repository! Offering a comprehensive collection of free resources and an interactive online Playground, this is your research center for mastering data analysis, visualization, and predictive modeling techniques.
 
 ## Resources
